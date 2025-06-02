@@ -21,19 +21,10 @@ Nmap done: 1 IP address (1 host up) scanned in 26.76 seconds
 credntial:
 jose:password123
 
+ssh
+think:josemario.AKA(think)
 
-adm.txt
-swaddle
-throbbed
 
-admin.txt
-pectic
-agretha
-only-begotten
-renewable
+leo quyen
 
-administrator.txt
-rycca
-show-offs
-overcast
-packinghouse
+sudo /usr/bin/look '' /root/root.txt
